@@ -1,4 +1,5 @@
 # Landmarks
+
 <p align="center">
   <img src="https://github.com/jaroshevskii/landmarks/assets/72662383/8aad714a-7f79-4c48-9621-764e42643c84" alt="App" height="768px">
 </p>

@@ -1,6 +1,8 @@
 # Landmarks
 
-[Fuck](https://securitymasterapp.onelink.me/l9JZ/fdmou4j2)
+[Universal](https://securitymasterapp.onelink.me/l9JZ/fdmou4j2)
+
+[Force](https://securitymasterapp.onelink.me/l9JZ/fdmou4j2?af_force_deeplink=true)
 
 <!--
 <p align="center">
